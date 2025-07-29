@@ -2,8 +2,8 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
+  <a>
+    <img src="./image.png" alt="Portfolio Website Banner">
   </a>
   <br />
   <div>
