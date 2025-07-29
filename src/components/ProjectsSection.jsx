@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: " AgriSmartSuite ",
     description: "ML models recommend optimal crops and predict yields from soil nutrients, weather, and acreage, arming farmers with data-driven decisions.",
-    image: "/crop.jpg",
+    image: "/Crop.jpg",
     tags: ["Python", "Flask REST API", "scikit-learn", "Pandas","NumPy"],
     demoUrl: "#",
     githubUrl: "#",
@@ -15,7 +15,7 @@ const projects = [
     title: "HealthRecSys",
     description:
       " SVC model predicts diseases from user-reported symptoms with high accuracy.",
-    image: "Crop.jpg",
+    image: "/Health.jpg",
     tags: ["Python", "Flask", "Bootstrap", "HTML", "CSS"],
     demoUrl: "#",
     githubUrl: "#",
